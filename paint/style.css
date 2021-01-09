@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(201, 183, 183);
+}
+
+.tools
+{
+    position: fixed;
+    background-color: rgb(133, 116, 116);
+    border: 1px solid black;
+    padding: 13px 13px;
+    transform: translate(-50%,-50%);
+  justify-content: center;
+align-items: center;
+
+margin-left: 190px;
+margin-top: 60px;
+}
+#canvas
+{
+  
+    background-color:white;
+    border:2px solid black;
+}
+.tool
+{
+   
+    font-size: 30px;
+    
+}
+.colour
+{
+    width: 84px;
+    background-color: white;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    
+}
